@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d5f2e1-efa3-431d-b269-317bf7992b6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LasVegasResult/basicStats.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/basicStats.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topicDirection.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +15,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStats.ipynb">
+        <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -37,6 +50,7 @@
         <option value="$PROJECT_DIR$/wangruiziResult/test.py" />
         <option value="$PROJECT_DIR$/LasVegasResult/BasicStats.py" />
         <option value="$PROJECT_DIR$/LasVegasResult/basicStats.ipynb" />
+        <option value="$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb" />
       </list>
     </option>
   </component>
@@ -126,11 +140,12 @@
       <workItem from="1574705896250" duration="5317000" />
       <workItem from="1574711371142" duration="3650000" />
       <workItem from="1574717223540" duration="4273000" />
+      <workItem from="1574916541081" duration="21687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13240000" />
+    <option name="totallyTimeSpent" value="34927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,14 +160,14 @@
     <frame x="37" y="10" width="1818" height="1024" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" x="854" y="226" width="214" height="598" id="Project" order="1" visible="true" weight="0.12400455" />
+      <window_info content_ui="combo" x="854" y="226" width="214" height="598" id="Project" order="1" visible="true" weight="0.1251422" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.6507395" visible="true" weight="0.32996634" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.51137656" weight="0.25476992" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="1" sideWeight="0.649033" visible="true" weight="0.30751964" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.51080775" weight="0.25476992" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5005688" side_tool="true" weight="0.15375982" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49943116" weight="0.32996634" />
-      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.71672356" weight="0.32659933" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49886236" weight="0.32996634" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.7155859" weight="0.32659933" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
@@ -160,8 +175,8 @@
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49886236" weight="0.32996634" />
-      <window_info anchor="bottom" x="0" y="0" width="404" height="824" id="Documentation" order="14" sideWeight="0.3492605" side_tool="true" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49829352" weight="0.32996634" />
+      <window_info anchor="bottom" x="0" y="0" width="404" height="824" id="Documentation" order="14" sideWeight="0.35096702" side_tool="true" visible="true" weight="0.30751964" />
       <window_info anchor="right" id="SciView" order="0" sideWeight="0.49665552" weight="0.2337884" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -185,36 +200,23 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wangruiziResult/test.py" />
-    <entry file="file://$PROJECT_DIR$/wangruiziResult/decisionTree_classifier.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wangruiziResult/lasvegasStrip.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wangruiziResult/nlp_regression_simplify.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wangruiziResult/decisionTree_classifier.txt" />
+    <entry file="file://$PROJECT_DIR$/wangruiziResult/lasvegasStrip.csv" />
+    <entry file="file://$PROJECT_DIR$/wangruiziResult/nlp_regression_simplify.ipynb" />
     <entry file="file://$PROJECT_DIR$/word_to_vec.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LDA_TopicModeling.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LasVegasResult/BasicStats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#4#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/BasicStats.py" />
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStats.ipynb">
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
