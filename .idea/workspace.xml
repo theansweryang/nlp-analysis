@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d5f2e1-efa3-431d-b269-317bf7992b6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LasVegasResult/basicStats.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LasVegasResult/topicDirection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/LDA/topic modeling results 30.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/LDA/topicModelingResults1101.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/lasvegasStrip.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/lasvegasStrip.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/topicPrediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/LDAWeightsResult.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/LDAWeightsResult.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/LDA_TopicModeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/LDA_TopicModeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/junk/topicDirection.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/junk/topicDirection.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/topic301101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/topic301101.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/visuals/topic visualization.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/visuals/topic visualization.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topic 30/visuals/topic visualization1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LasVegasResult/LDA/visuals/topic visualization1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LasVegasResult/topicvalence.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +24,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nlp analysis" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb">
+        <entry file="file://$PROJECT_DIR$/LasVegasResult/topicPrediction.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LasVegasResult/LDA/LDA_TopicModeling.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -40,6 +53,11 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ut</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +73,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="10" />
-    <option name="width" value="1818" />
+    <option name="x" value="-10" />
+    <option name="y" value="38" />
+    <option name="width" value="1861" />
     <option name="height" value="1024" />
   </component>
   <component name="ProjectView">
@@ -65,23 +83,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="nlp analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nlp analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nlp analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nlp analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="LasVegasResult" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,7 +92,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NDSUGoogle\Pyntebook\nlp analysis\LasVegasResult\LDA" />
+      <recent name="D:\NDSUGoogle\Pyntebook\nlp analysis" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,11 +150,21 @@
       <workItem from="1574711371142" duration="3650000" />
       <workItem from="1574717223540" duration="4273000" />
       <workItem from="1574916541081" duration="21687000" />
+      <workItem from="1575844028672" duration="481000" />
+      <workItem from="1575845259013" duration="2112000" />
+      <workItem from="1575847403763" duration="685000" />
+      <workItem from="1575848433984" duration="15000" />
+      <workItem from="1576047867307" duration="700000" />
+      <workItem from="1576048593612" duration="5711000" />
+      <workItem from="1576076462313" duration="3424000" />
+      <workItem from="1576085531656" duration="19911000" />
+      <workItem from="1576438840418" duration="28000" />
+      <workItem from="1576448295937" duration="2425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34927000" />
+    <option name="totallyTimeSpent" value="70419000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -157,26 +176,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="10" width="1818" height="1024" extended-state="0" />
+    <frame x="-10" y="38" width="1861" height="1024" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" x="854" y="226" width="214" height="598" id="Project" order="1" visible="true" weight="0.1251422" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.5015625" side_tool="true" weight="0.16791044" />
+      <window_info active="true" content_ui="combo" x="854" y="226" width="214" height="598" id="Project" order="1" sideWeight="0.4984375" visible="true" weight="0.17823431" />
+      <window_info id="Structure" order="2" sideWeight="0.5015625" side_tool="true" weight="0.16791044" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="1" sideWeight="0.649033" visible="true" weight="0.30751964" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.51080775" weight="0.25476992" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5005688" side_tool="true" weight="0.15375982" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49886236" weight="0.32996634" />
-      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.7155859" weight="0.32659933" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="1" sideWeight="0.684968" visible="true" weight="0.3066089" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49733475" weight="0.24593717" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.31503198" side_tool="true" weight="0.3066089" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4914712" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.7084222" weight="0.3261105" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.49946696" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49829352" weight="0.32996634" />
-      <window_info anchor="bottom" x="0" y="0" width="404" height="824" id="Documentation" order="14" sideWeight="0.35096702" side_tool="true" visible="true" weight="0.30751964" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49626866" weight="0.32936078" />
+      <window_info anchor="bottom" x="0" y="0" width="404" height="824" id="Documentation" order="14" sideWeight="0.31503198" side_tool="true" visible="true" weight="0.31762066" />
       <window_info anchor="right" id="SciView" order="0" sideWeight="0.49665552" weight="0.2337884" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -186,6 +206,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,10 +273,16 @@
     <entry file="file://$PROJECT_DIR$/LasVegasResult/sentenceTermNaiveBayes.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LasVegasResult/randomForestPrediction.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/LDA/LDAWeightsResult.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LasVegasResult/basicStatsCharts.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/topicPrediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LasVegasResult/LDA/LDA_TopicModeling.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
